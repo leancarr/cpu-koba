@@ -1,6 +1,6 @@
-# 🟦 Kobarius CPU Emulator
+# 🟦 CPU Emulator
 
-**Kobarius** es un emulador funcional de una CPU personalizada de 16 bits basada en una arquitectura RISC simplificada. El proyecto incluye una arquitectura completa, un ensamblador de dos pasadas y un depurador interactivo visual para terminal.
+**CPU** es un emulador funcional de una CPU personalizada de 16 bits basada en una arquitectura RISC simplificada. El proyecto incluye una arquitectura completa, un ensamblador de dos pasadas y un depurador interactivo visual para terminal.
 
 ## 🚀 Estado Actual
 El proyecto se encuentra en una fase **completamente funcional** con las siguientes características:
@@ -39,7 +39,7 @@ Una vez dentro, interactúa con la CPU:
 
 ## 📜 Set de Instrucciones (ISA)
 
-La CPU Kobarius entiende actualmente 8 tipos de instrucciones:
+La CPU entiende actualmente 8 tipos de instrucciones:
 
 | Mnemónico | Descripción | Tipo |
 | :--- | :--- | :--- |
